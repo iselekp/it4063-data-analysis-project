@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "data-analysis-project"
+version = "0.0.1"
+description = "Researching and analyzing a topic for the UC IT4063 course. Topic: Access to clean drinking water."
+authors = ["Yahya Gilany <yahya.gilany@live.com>, Karl Isele <iselekp@mail.uc.edu>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+ipykernel = "^6.25.2"
+black = "^23.9.1"
+numpy = "^1.25.2"
+testbook = "^0.4.2"
+pytest = "^7.4.2"
+jupyter = "^1.0.0"
+opendatasets = "^0.1.22"
+pandas = "^2.1.0"
+sqlalchemy = "^2.0.20"
+python-dotenv = "^1.0.0"
+requests = "^2.31.0"
+matplotlib = "^3.8.0"
+plotly = "^5.16.1"
+seaborn = "^0.12.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
