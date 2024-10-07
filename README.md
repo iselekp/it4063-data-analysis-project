@@ -1,7 +1,7 @@
 # it4063-data-analysis-project
 Researching and analyzing a topic for the UC IT4063 course.
 
-Topic: Access to clean drinking water.
+Topic: Access to clean drinking water. People’s access to water impacts how they live and their quality of life. Understanding the factors that affect water quality and access can aid the development of safe water management strategies. 
 
 Project Questions:
 What factors affect access to clean drinking water?
