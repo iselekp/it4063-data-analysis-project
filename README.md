@@ -21,8 +21,11 @@ Data Sources:
 
 APIs and files
 https://data.apps.fao.org/aquastat/?lang=en
+
 https://washdata.org/data/downloads
+
 https://www.kaggle.com/datasets/robustus/whpa-prediction
+
 https://www.health.state.mn.us/communities/environment/water/swp/mapviewer.html
 
 Further research
